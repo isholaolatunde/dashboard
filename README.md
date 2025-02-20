@@ -1,3 +1,3 @@
 # dashboard
 Dashboard Clone
-Customer Dashboard which includes invoices
+Customer Dashboard which includes invoice
